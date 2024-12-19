@@ -32,13 +32,10 @@ Clone the repository or create a new project directory.
 Navigate to the project root directory in your terminal.
 
 Run the following command to install dependencies:
-```
 
-
-`
 npm run install:all
 
-`
+```
 
 ## Running the Project
 
